@@ -1,4 +1,5 @@
 # Don't bother the Beetle
+![](https://github.com/EmilcyFelipe/Beetle/blob/master/beetle.png)
 
 ## Objetivo 
   Consolidar e aprimorar habilidades com a disposição dos elementos em tela, principalmente, envolvendo Html e css
